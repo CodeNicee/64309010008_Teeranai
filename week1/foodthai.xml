@@ -1,13 +1,52 @@
 <food>
 	<thaifood>
-		<foodid>
-			01
-		</foodid>
-		<foodname>
-			noodle
-		</foodname>
-		<price>
-			50
-		</price>
+		<foodid>01</foodid>
+		<foodname>noodles</foodname>
+		<price>50</price>
+	</thaifood>
+	<thaifood>
+		<foodid>02</foodid>
+		<foodname>fried rice</foodname>
+		<price>50</price>
+	</thaifood>
+	<thaifood>
+		<foodid>03</foodid>
+		<foodname>pork and rice omelet</foodname>
+		<price>80</price>
+	</thaifood>
+	<thaifood>
+		<foodid>04</foodid>
+		<foodname>Hainanese chicken rice</foodname>
+		<price>70</price>
+	</thaifood>
+	<thaifood>
+		<foodid>05</foodid>
+		<foodname>roast red duck on rice</foodname>
+		<price>70</price>
+	</thaifood>
+	<thaifood>
+		<foodid>06</foodid>
+		<foodname>Pad Thai</foodname>
+		<price>60</price>
+	</thaifood>
+	<thaifood>
+		<foodid>07</foodid>
+		<foodname>Khao Soi</foodname>
+		<price>60</price>
+	</thaifood>
+	<thaifood>
+		<foodid>08</foodid>
+		<foodname>Pad see ew</foodname>
+		<price>70</price>
+	</thaifood>
+	<thaifood>
+		<foodid>09</foodid>
+		<foodname>green curry</foodname>
+		<price>80</price>
+	</thaifood>
+	<thaifood>
+		<foodid>10</foodid>
+		<foodname>Tom Yum Goong</foodname>
+		<price>80</price>
 	</thaifood>
 </food>
