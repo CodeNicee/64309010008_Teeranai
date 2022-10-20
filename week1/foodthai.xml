@@ -1,0 +1,13 @@
+<food>
+	<thaifood>
+		<foodid>
+			01
+		</foodid>
+		<foodname>
+			noodle
+		</foodname>
+		<price>
+			50
+		</price>
+	</thaifood>
+</food>
